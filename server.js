@@ -11,7 +11,7 @@ const todorouter = require('./routes/todo');
 
 
     const app = express();
-    const PORT = process.env.PORT || 4000;
+    const PORT = process.env.PORT || 4004;
     console.log('mysql db connection');
 
 
